@@ -13,6 +13,8 @@
     "react-scripts": "3.0.1",
     "react-table": "next",
     "styled-components": "^4.3.2"
+    "eslint-utils@^1.4.1:"
+
   },
   "devDependencies": {
     "@rescripts/cli": "^0.0.11",
